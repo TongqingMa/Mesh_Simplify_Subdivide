@@ -1,0 +1,52 @@
+﻿  HalfEdge.cpp
+e:\vs_project\expirefifth_mesh\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\cuda\half.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(20): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(22): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(25): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(28): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(36): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(38): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(39): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(40): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(247): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(294): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(295): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(296): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(298): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(332): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(608): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(622): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(770): warning C4018: “<”: 有符号/无符号不匹配
+  learn_loop_subdivsion.cpp
+e:\vs_project\expirefifth_mesh\packages\eigen.3.3.3\build\native\include\eigen\src\core\arch\cuda\half.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\subdivsion.h(32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\subdivsion.h(33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\subdivsion.h(34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\subdivsion.h(65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\garland.h(23): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\garland.h(30): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\garland.h(38): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\garland.h(55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\garland.h(76): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\learn_loop_subdivsion.cpp(111): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\learn_loop_subdivsion.cpp(252): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\learn_loop_subdivsion.cpp(253): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\learn_loop_subdivsion.cpp(257): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\learn_loop_subdivsion.cpp(258): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\learn_loop_subdivsion.cpp(260): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\learn_loop_subdivsion.cpp(261): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\learn_loop_subdivsion.cpp(270): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+e:\vs_project\expirefifth_mesh\learn_loop_subdivsion\halfedge.cpp(101): warning C4715: “HE_Mesh::InsertFace”: 不是所有的控件路径都返回值
+  learn_loop_subdivsion.vcxproj -> E:\VS_Project\ExpireFifth_Mesh\Debug\learn_loop_subdivsion.exe
